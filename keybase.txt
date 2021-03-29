@@ -4,68 +4,49 @@ https://keybase.io/kmacfactor
 
 I hereby claim:
 
-  * I am an admin of https://archive.aconversationaboutrace.com
+  * I am an admin of https://www.aconversationaboutrace.com
   * I am kmacfactor (https://keybase.io/kmacfactor) on keybase.
-  * I have a public key with fingerprint 514A 9B3D 5F9C 8564 20AE  522F 84C1 CCC5 5396 2301
+  * I have a public key ASBx-6uH4oK4rMzDe1p7lWViZLV2alNLREbwDkP8gB9k9Qo
 
 To do so, I am signing this object:
 
 {
   "body": {
     "key": {
-      "eldest_kid": "0120e37dc722c6dfbd81de7d83c7fbe988bd53922ba4f11352e70b4d6f25641ea7040a",
-      "fingerprint": "514a9b3d5f9c856420ae522f84c1ccc553962301",
+      "eldest_kid": "012071fbab87e282b8acccc37b5a7b95656264b5766a534b4446f00e43fc801f64f50a",
       "host": "keybase.io",
-      "key_id": "84c1ccc553962301",
-      "kid": "0101d3c86001a68dd089dcb8424fa7f02bbd46a320a3dd0a4fc5f89b12332d295d630a",
+      "kid": "012071fbab87e282b8acccc37b5a7b95656264b5766a534b4446f00e43fc801f64f50a",
       "uid": "dac9a354430726228ce91fdf6f983119",
       "username": "kmacfactor"
     },
+    "merkle_root": {
+      "ctime": 1617037166,
+      "hash": "43423b33a07510f32184ebc7edf7f791472ae9661f93ecd6827e7463baf53fbcb63717b08c821edf23c1be124b3a8b9814a83d3218d2839b8be0838dc01a5ecb",
+      "hash_meta": "023df5378a9fde588098e65d9a4efc1d8ab3df7b1c6d257560054db3e0f3b501",
+      "seqno": 19498583
+    },
     "service": {
-      "hostname": "archive.aconversationaboutrace.com",
+      "entropy": "3O6ou49KV/ge3k4Ozu62JDSo",
+      "hostname": "www.aconversationaboutrace.com",
       "protocol": "https:"
     },
     "type": "web_service_binding",
-    "version": 1
+    "version": 2
   },
-  "ctime": 1525897509,
-  "expire_in": 157680000,
-  "prev": "a5fcfc47963a644da3044ceff80ad2dc5a6242c6934944ede6a46d4669dc0b36",
-  "seqno": 11,
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.2"
+  },
+  "ctime": 1617037177,
+  "expire_in": 504576000,
+  "prev": "5b5a93a77e339c3f65eb9afe66ce6985fd955d69d7f0c23a39f698380043821d",
+  "seqno": 38,
   "tag": "signature"
 }
 
 which yields the signature:
 
------BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v2.0.77
-Comment: https://keybase.io/crypto
-
-yMOEAnicbZJtUFRVGMdZXkQQELNRm4jkGqVBcN/33lXUwZoMGkkIZzDG9dxzzmWv
-yt5197KyOVtkflBCwxeyYhiEMNMRJgFjEMVhgdSAYNBoYjCpGVYCBwNjKhXpXka/
-db6cOc/5P7/n/zzzdEQGBYSb9rd1d2Z9tsJk6mr7tiBg6/2c+L2EpCIPYdlL7MRz
-F96FsEuz7lQQYSFIiiYxY0bQTNOQR7KEBAphMxIYaJYlLAqChDhGpGkJsDJFMRyN
-zaTEIl6mOZ6lMDCTLAmIREJW7HnY6XAqdk3HchQLRIlBnCxCQRfSJMAcTcsCCykI
-IacjeZohKT3RprqMDN2cBFw4SVH1mP6wztn7H/1T3ySFGCjwJEkBXkCIFEQEJYGl
-WRmYZZKWJMTygNELM/qnbh5ysiBKFM0wNKJFDvHMnO+CORwCUAQMx7IMaaZ5mhYg
-FikZybwsCgxFiYbQhZ12kI8Nr/kAygBqqpPwJhJ63K1AbIzW6OWJBjihTXHjJABV
-uxs7XUBTVDuQ1ALNCSBOgmq+znQ4VU2F6i5db9M0h8ti8DSPwwDswZL1CdoqKXak
-z1fPMFA6iLBQuhJqilGL4mhOEM0cKSYSuNChOLFVMRScmRdI/Rh1sNvwxMlQhqxZ
-5BnAsywCDMmyEMuyQAJEI8gBnmb1NRAZVmRZjDAPWF4fI6+PlpQYnjCa3W1XdTal
-+wR5OtOl5NmBVuDEhNfXlhscYAoPmBcSaCxeQHhY9NN1zLIsfDjPNRoZuXGs8hl/
-H1N61dZx0ucpGpn8dXZbjW/4wqqU4kdDgY35VSmD38e+fWuq4XT67ccc2zV08UJT
-gT2tfr311Ic9L8UeyS9/J9XRtD1zgaMsJ/X80Z7o88euHIuvjJv9sj7suK1oR8Bs
-/2jMSqWx4UVfM7evJDoobdtBQUgen91Q1mp7rXJGVM7V97anvxqd809XRUvW+8fD
-thb62ieq6w67q+P9DR8N1iWcGLv3xc3vDsub0jetf2N62c/vRsdX1XVtDm2rzPBl
-hIq1Y+rt7JrQg8s/vfboSM9A9vhStrY4Z2ik5APbybeKf2n0FHouNZZWLHOXR8Ut
-YUvTfgd9by6svXxm/wb/mvkTOy4xK8q7t7Q8+KGsebI0S74xOnmPaB3u7F91ffU3
-lGfq6HQLzVtPZC/9o3ofuj/88Z6MSVNN5vS4kHirYvDrAx5L1JrkAaHeO/+h9e8H
-X9nObh8f7F0UVzYS+tvna0POdr/X+fLq0JLca1f6d0eY/Df8F3Nygy0d/S3VeVXX
-K5zPRtzVZirBmTtNB9YdujnVvK5veUQb59h8t1770eteGaww9f6/EpZ0zQ5siTv9
-b3mteSLGy79yLu354qKSmdSYIFNnSoJ3kUu+s2AxEzhUnr22t+fqc66NyZnBlsuF
-9KH1i5NOxVaZksTW0qiGFxJG49ux85NU/0+v94WkPbb++R+KStEg
-=aAXu
------END PGP MESSAGE-----
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgcfurh+KCuKzMw3tae5VlYmS1dmpTS0RG8A5D/IAfZPUKp3BheWxvYWTESpcCJsQgW1qTp34znD9l65r+Zs5phf2VXWnX8MI6OfaYOABDgh3EIFi3ayeG26xfW7n+wZq25kjV8/TJRtCBNAW9SrJ2dPEgAgHCo3NpZ8RA4pzx4htj9GpmgHA7EtEbWR2D3MK09dpBEHQxSl/XhhePwgUOcjj1yOx5vT/i0L/EWPJDjKT2QrI/d2jsC8vDCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBpI3cUSs+goa42MwsweBxDrvm7RAG6HLUBCHI+veRk2o3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
